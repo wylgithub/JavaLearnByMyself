@@ -1,0 +1,5 @@
+DateOutputStream/DateInputStream
+对普通流的功能一个扩展，可以更加方便读取int,long字符等类型数组
+DateOutputStream多了一些方法：
+writeInt()/writeDouble()/writeUTF()等函数。其实是一种设计模式
+
